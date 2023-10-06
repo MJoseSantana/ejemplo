@@ -1,0 +1,13 @@
+https://prueba.sisti.tech/prueba.html
+
+https://prueba.sisti.tech/califi.php
+
+DB: u312507976_db
+Usuario: usuario1    Clave: Usuario23-2
+Tabla: calificacion
+Campos: lectivo, cedula, codicarrera, codicurso, codimateria, nota1, nota2, fecharegistro
+
+
+
+	
+

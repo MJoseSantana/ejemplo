@@ -1,0 +1,90 @@
+<html>
+<head>
+  <title>Teorias del conocimiento</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:,">
+  <style>
+  html {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  h1 {
+    font-size: 1.8rem;
+    color: white;
+  }
+  h2{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #143642;
+  }
+  h3{
+   font-size:1rem;
+   fon-weight: blod;
+   color: black;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #143642;
+  }
+  body {
+    margin: 0;
+  }
+  .content {
+    padding: 30px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .card {
+    background-color: #F8F7F9;;
+    box-shadow: 2px 2px 12px 1px rgba(140,140,140,.5);
+    padding-top:10px;
+    padding-bottom:20px;
+  }
+footer {
+	background-color: #365;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+  </style>
+<title></title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+</head>
+<body>
+  <div class="topnav">
+    <h1>Teoría del conocimiento (Tdc)</h1>
+  </div>
+  <div class="content">
+    <div class="card">
+      <h2>¿Qué es teoría de conocimiento?</h2>
+	<h3>La Teoría del conocimiento es una rama de la filosofía, centrada en el estudio del conocimiento humano. Se la define también como “El campo del saber que trata del estudio del conocimiento humano desde el punto de vista científico”.</h3>
+	<img src="https://www.ecured.cu/images/thumb/c/c5/Teor%C3%ADa_del_Conocimiento.png/260px-Teor%C3%ADa_del_Conocimiento.png"Imagen de tdc">
+    </div>
+  </div>
+    <div class="content">
+    <div class="card">
+      <h2>Áreas de conocimiento</h2>
+      <h3>TdC distingue ocho áreas de conocimiento: matemáticas, ciencias naturales, ciencias humanas, las artes, historia, ética, sistemas religiosos de conocimiento y sistemas indígenas de conocimiento.</h3>
+      <img src="https://image.slidesharecdn.com/reasdelconocimiento-140717185852-phpapp01/85/reas-del-conocimiento-14-320.jpg?cb=1665752348">
+    </div>
+  </div>
+      <div class="content">
+    <div class="card">
+      <h2>Formas de conocimiento</h2>
+	<h3>TdC identifica ocho formas de conocimiento específicas. Estas son: lenguaje, percepción sensorial, emoción, razón, imaginación, fe, intuición y memoria.</h3>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIy5HsNII_EDdRZTaT_KafWDwWEh8ZdHW49C5AiqKsZRiUiU84GhFqJJhkvnMDJi8VSw&usqp=CAU">
+    </div>
+  </div>
+  <div class="content">
+    <div class="card">
+      <h2>Teoria de las inteligencias multiples</h2>
+	<h3>La Teoría de las Inteligencias Múltiples fue ideada por el psicólogo estadounidense Howard Gardner como contrapeso al paradigma de una inteligencia única.</h3>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZvBGXA2VObZLxJ09J3pY6KqsnvT9lnNaBA&usqp=CAU">
+    </div>
+  </div>
+
+<forter>Todos los derechos reservados por Michael Castro &copy; 2023</forter>
+</body>
+</html>
